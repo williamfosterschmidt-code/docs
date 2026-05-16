@@ -56,5 +56,8 @@
       "facebook": "https://facebook.com/lifeonafaultline",
       "podcast": "https://open.spotify.com/playlist/1GCOdpgjrdJNXIU17pUDRZ"
     }
+  },
+  "banner": {
+    "content": "\"logo\": {   \"light\": \"/LifeOnAFaultline_banner_1100x220.png\",   \"dark\": \"/LifeOnAFaultline_banner_1100x220.png\" }"
   }
 }
