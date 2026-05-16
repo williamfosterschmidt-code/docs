@@ -3,17 +3,17 @@
   "theme": "almond",
   "name": "Life on a Fault Line",
   "favicon": "https://media.brand.dev/a4919763-3bde-4f79-9991-50031ec660d0.jpg",
+  "logo": {
+    "light": "/LifeOnAFaultline_banner_1100x220.png",
+    "dark": "/LifeOnAFaultline_banner_1100x220.png"
+  },
   "colors": {
     "primary": "#848588",
     "light": "#141518"
   },
   "fonts": {
-    "heading": {
-      "family": "Lora"
-    },
-    "body": {
-      "family": "SF Pro Display"
-    }
+    "heading": { "family": "Lora" },
+    "body": { "family": "SF Pro Display" }
   },
   "navbar": {
     "primary": {
@@ -24,29 +24,9 @@
   },
   "navigation": {
     "groups": [
-      {
-        "group": "Welcome",
-        "pages": [
-          "introduction",
-          "about"
-        ]
-      },
-      {
-        "group": "Essays",
-        "pages": [
-          "essays/grief",
-          "essays/divorce",
-          "essays/music",
-          "essays/becoming"
-        ]
-      },
-      {
-        "group": "Subscribe",
-        "pages": [
-          "subscribe",
-          "faq"
-        ]
-      }
+      { "group": "Welcome", "pages": ["introduction", "about"] },
+      { "group": "Essays", "pages": ["essays/grief", "essays/divorce", "essays/music", "essays/becoming"] },
+      { "group": "Subscribe", "pages": ["subscribe", "faq"] }
     ]
   },
   "footer": {
@@ -57,7 +37,7 @@
       "podcast": "https://open.spotify.com/playlist/1GCOdpgjrdJNXIU17pUDRZ"
     }
   },
-  "banner": {
-    "content": "\"logo\": {   \"light\": \"/LifeOnAFaultline_banner_1100x220.png\",   \"dark\": \"/LifeOnAFaultline_banner_1100x220.png\" }"
+  "custom": {
+    "css": "footer { background-image: url('/Lof%20l-banner.png'); background-size: 100% auto; background-repeat: no-repeat; background-position: top center; padding-top: 200px !important; }"
   }
 }
