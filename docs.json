@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "almond",
+  "theme": "willow",
   "name": "Life on a Fault Line",
   "favicon": {
     "light": "https://media.brand.dev/a4919763-3bde-4f79-9991-50031ec660d0.jpg",
@@ -9,7 +9,8 @@
   "logo": "/LifeOnAFaultline_banner_1100x220.png",
   "colors": {
     "primary": "#848588",
-    "light": "#141518"
+    "light": "#141518",
+    "dark": "#11281a"
   },
   "fonts": {
     "heading": { "family": "Lora" },
@@ -44,7 +45,7 @@
     "css": "footer { background-image: url('/Lof%20l-banner.png'); background-size: 100% auto; background-repeat: no-repeat; background-position: top center; padding-top: 200px !important; }"
   },
   "background": {
-    "image": "/images/IMG_3416.jpeg",
+    "image": "/images/IMG_3513.jpeg",
     "decoration": "windows"
   },
   "appearance": {
