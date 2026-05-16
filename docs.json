@@ -22,7 +22,7 @@
   "navigation": {
     "groups": [
       { "group": "Welcome", "pages": ["introduction", "about"] },
-      { "group": "Essays", "pages": ["essays/grief", "essays/divorce", "essays/music", "essays/becoming"] },
+      { "group": "Essays", "pages": ["essays/grief", "essays/divorce", "essays/music", "essays/darkest-hours"] },
       { "group": "Subscribe", "pages": ["subscribe", "faq"] }
     ]
   },
