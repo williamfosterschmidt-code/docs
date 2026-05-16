@@ -1,0 +1,44 @@
+{
+  "projectType": "general",
+  "projectName": "Life on a Fault Line",
+  "projectDescription": "A personal essay newsletter by Will Foster-Schmidt exploring grief, divorce, music, and the ongoing work of becoming.",
+  "theme": "almond",
+  "primaryColor": "#848588",
+  "lightColor": "#141518",
+  "darkColor": null,
+  "navigation": {
+    "groups": [
+      {
+        "group": "Welcome",
+        "pages": [
+          "introduction",
+          "about"
+        ]
+      },
+      {
+        "group": "Essays",
+        "pages": [
+          "essays/grief",
+          "essays/divorce",
+          "essays/music",
+          "essays/becoming"
+        ]
+      },
+      {
+        "group": "Subscribe",
+        "pages": [
+          "subscribe",
+          "faq"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Personal essays on grief and loss",
+    "Reflections on divorce and relationships",
+    "Music as a lens for emotional experience",
+    "Writing about personal transformation and growth",
+    "Regular newsletter delivered via Substack"
+  ],
+  "publicApiSurface": []
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "almond",
+  "name": "Life on a Fault Line",
+  "favicon": "https://media.brand.dev/a4919763-3bde-4f79-9991-50031ec660d0.jpg",
+  "colors": {
+    "primary": "#848588",
+    "light": "#141518"
+  },
+  "fonts": {
+    "heading": {
+      "family": "Lora"
+    },
+    "body": {
+      "family": "SF Pro Display"
+    }
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Subscribe",
+      "href": "https://lifeonafaultline.substack.com/subscribe"
+    }
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Welcome",
+        "pages": [
+          "introduction",
+          "about"
+        ]
+      },
+      {
+        "group": "Essays",
+        "pages": [
+          "essays/grief",
+          "essays/divorce",
+          "essays/music",
+          "essays/becoming"
+        ]
+      },
+      {
+        "group": "Subscribe",
+        "pages": [
+          "subscribe",
+          "faq"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "website": "https://lifeonafaultline.substack.com",
+      "instagram": "https://instagram.com/william.schmidt1982",
+      "facebook": "https://facebook.com/lifeonafaultline",
+      "podcast": "https://open.spotify.com/playlist/1GCOdpgjrdJNXIU17pUDRZ"
+    }
+  }
+}
