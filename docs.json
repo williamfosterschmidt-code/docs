@@ -26,7 +26,7 @@
       "href": "https://lifeonafaultline.substack.com/subscribe"
     }
   },
-  "analytics": {
+  "integrations": {
     "ga4": {
       "measurementId": "G-LLFPMH6B09"
     }
