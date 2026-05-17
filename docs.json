@@ -25,6 +25,11 @@
       "label": "Subscribe",
       "href": "https://lifeonafaultline.substack.com/subscribe"
     }
+    "analytics": {
+  "ga4": {
+    "measurementId": "G-LLFPMH6B09"
+  }
+},
   },
   "navigation": {
     "groups": [
