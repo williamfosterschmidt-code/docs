@@ -2,11 +2,11 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "willow",
   "name": "Life on a Fault Line",
-  "favicon": {
-    "light": "https://media.brand.dev/a4919763-3bde-4f79-9991-50031ec660d0.jpg",
-    "dark": "https://media.brand.dev/a4919763-3bde-4f79-9991-50031ec660d0.jpg"
+  "favicon": "/images/favicon.png",
+  "logo": {
+    "light": "/images/LifeOnAFaultline_banner_1100x220.png",
+    "dark": "/images/LifeOnAFaultline_banner_1100x220.png"
   },
-  "logo": "/LifeOnAFaultline_banner_1100x220.png",
   "colors": {
     "primary": "#848588",
     "light": "#141518",
@@ -17,13 +17,6 @@
     "body": {
       "family": "SF Pro Display",
       "weight": 800
-    }
-  },
-  "navbar": {
-    "primary": {
-      "type": "button",
-      "label": "Subscribe",
-      "href": "https://lifeonafaultline.substack.com/subscribe"
     }
   },
   "integrations": {
@@ -47,7 +40,7 @@
     }
   },
   "custom": {
-    "css": "footer { background-image: url('/Lof%20l-banner.png'); background-size: 100% auto; background-repeat: no-repeat; background-position: top center; padding-top: 200px !important; }"
+    "css": "footer { background-image: url('/images/Lof%20l-banner.png'); background-size: 100% auto; background-repeat: no-repeat; background-position: top center; padding-top: 200px !important; }"
   },
   "background": {
     "image": "/images/IMG_3513.jpeg",
